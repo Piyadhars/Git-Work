@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 ca4918083ec471878d58612142572f3367faf5fd Koon Pandiyan <moshfegh@live.com.au> 1597699035 -0700	commit (initial): Initial commit.
+ca4918083ec471878d58612142572f3367faf5fd 1ebb7a701c4e86331cc64fada6ac1057fdf2dcde Nedunjeliyan I <moshfegh@live.com.au> 1597699051 -0700	commit: Define the objectives.
+1ebb7a701c4e86331cc64fada6ac1057fdf2dcde fb0d184c7e31cbb00eed45c98ba502e466b60152 Pudappandiyan <moshfegh@live.com.au> 1597699089 -0700	commit: Define the audience.
+fb0d184c7e31cbb00eed45c98ba502e466b60152 dad47edb45fb6912ecbb9034daca59f0491da1ab Mudukudumi Peruvazhudhi <moshfegh@live.com.au> 1597699250 -0700	commit: Write the first draft of initializing a repo.
+dad47edb45fb6912ecbb9034daca59f0491da1ab fa1b75e8d342a4cb507c28d5417ae6a9111ba81a Nedunjeliyan II <moshfegh@live.com.au> 1597699290 -0700	commit: Include the warning about removing .git directory.
+fa1b75e8d342a4cb507c28d5417ae6a9111ba81a 9b6ebfdac0e8a775f17418a63f1153ee74078163 Nanmaran <moshfegh@live.com.au> 1597699337 -0700	commit: Add a header to the page about initializing a repo.
+9b6ebfdac0e8a775f17418a63f1153ee74078163 36cd6db402cfd897810d4cb33d97ac1e9d1ce2d8 Nedunjeliyan III <moshfegh@live.com.au> 1597699371 -0700	commit: Include the command prompt in code sample.
+36cd6db402cfd897810d4cb33d97ac1e9d1ce2d8 24e86ee2f15e47a0d7b51032d2dc5b684b33465a Maran Vazhudhi <moshfegh@live.com.au> 1597699432 -0700	commit: Add command line and GUI tools to the objectives.
+24e86ee2f15e47a0d7b51032d2dc5b684b33465a edb3594bfa5572d81e24b33aa928938e46907275 Kadalan Vazhudhi <moshfegh@live.com.au> 1597699478 -0700	commit: First draft of staging changes.
+edb3594bfa5572d81e24b33aa928938e46907275 91f7d40d6d5bbc336a271607a0488216aaf50cd7 Mutriya Chezhiyan <moshfegh@live.com.au> 1661190176 -0700	commit: Explain various ways to stage changes.
+91f7d40d6d5bbc336a271607a0488216aaf50cd7 555b62e1ebb92c97fc69910ad0981a7d6dbbf8c6 Ukkirap Peruvazhudhi <moshfegh@live.com.au> 1597699609 -0700	commit: Include the note about committing after staging the changes.
+555b62e1ebb92c97fc69910ad0981a7d6dbbf8c6 50db98710ed4330773f1df55b2a177600d523c9e Muthu Mathiyazhagan <moshfegh@live.com.au> 1597699670 -0700	commit: Include the first section in TOC.
+50db98710ed4330773f1df55b2a177600d523c9e a642e1229e3cb69be9bf075d9fe5e752e9a17458 Yaadhum Aanavan <moshfegh@live.com.au> 1597767799 -0700	commit: Add header to all pages.
+a642e1229e3cb69be9bf075d9fe5e752e9a17458 43961e1c1364566781e3d92d95002e13a933b8c9 muthu-mathiyazhagan-autocrlf <muthumathiyazhagan@gmail.com> 1661084073 +0530	commit: some very basic javascript code added for better understanding [i guess :)]
+43961e1c1364566781e3d92d95002e13a933b8c9 bb106db90189559b474e910ebee9478961c6360f muthu-mathiyazhagan <muthumathiyazhagan@gmail.com> 1661084963 +0530	commit: This snapshot to explain 'git log --oneline --grep='greetings''
+bb106db90189559b474e910ebee9478961c6360f 25493deea9d6c37f9d2093dddc104e5646dc704f muthu-mathiyazhagan <muthumathiyazhagan@gmail.com> 1661188516 +0530	commit: You Know 27% Developers Don't Read or Write README file. So that they are struggling lot to Learn Technology
+25493deea9d6c37f9d2093dddc104e5646dc704f 37aabde7ef797cfa71c8e18b27f798cd8563647d YaadhumAanavan <muthumathiyazhagan@gmail.com> 1661188796 +0530	commit (amend): You Know ! \n 27% Developers Don't Read or Write README file. So that they are struggling lot to Learn Technology !
+37aabde7ef797cfa71c8e18b27f798cd8563647d 4074b9f0f93b88b28aeaf65cc98580dcabef99d6 YaadhumAanavan <muthumathiyazhagan@gmail.com> 1661190176 +0530	commit: Are you Really Reading README.md in all versions/snapshot/commit/hash ??
