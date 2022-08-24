@@ -1,16 +1,16 @@
-Am going to teach you how below command works better for OUR (developer) comfort
+We will be having an Git && Command Line session at 11.50 AM today. Please join the session using the below link,
+Topics to be covered :
+Tagging
+Browsing History using VS Code
+BRANCHING && MERGING 
+what is Branching ?
+Get a repository
+Working with branches
+Comparing Branches
+Stashing 
+Merging
+Fast Forward Merge
+Three way merge
+Viewing Merged && Unmerged Branches
 
-git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-
-and then,
-git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-
-and then
-
-git lg instead of 'git log --oneline'
-
-if(:)) {console.log("");}
-else {AVOID IT( :( );} 
-
-new Date().getTime() , 
-console.log('am trying to edit sourcecode. Lets see if its succeed or not');
+https://meet.google.com/qav-skzo-day
