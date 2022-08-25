@@ -1,4 +1,6 @@
 cat is cute
 blue
 green
-content changed in master
+content changed in maste
+orange
+content is changed from bugfix branch
